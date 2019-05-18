@@ -31,8 +31,8 @@ body{
 h1{
     text-transform: uppercase;
     text-align: center;
-    font-size: 2.5em;
-    margin: 100px 0;
+    font-size: 2.0em;
+   
 }
 .swiper-pagination-bullet{
 background: white;
