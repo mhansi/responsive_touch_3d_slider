@@ -5,6 +5,8 @@ $(document).ready(function() {
         grabCursor: true,
         centeredSlides:true,
         slidesPerView:'auto',
+        slideToClickedSlide:true,
+        initialSlide:4,
         coverflowEffect:{
          rotate: 50,
          stretch: 0,
